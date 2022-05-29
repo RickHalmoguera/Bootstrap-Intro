@@ -10,9 +10,7 @@
     <p>Exclente página para formarte como Frontend Developer</p>
       <li><p><a href="https://www.w3schools.com/jsref/jsref_filter.asp">JavaScript Array filter()
 </a></p></li>
-    <p>Documentación del metodo Filter()</p>
-      <li><p><a href="https://getbootstrap.com/">Bootstrap</a></p></li>
-    <p>Toda la documentacíon de como utilizar este framework</p>
+    
  
   <h1>Código</h1>
   <p>Con toda libertad puedes bajar o clonar este repositorio!</p>
