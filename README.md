@@ -7,11 +7,11 @@
   <h1>Recursos utilizados</h1>
   <ul>
       <li><p><a href="https://scrimba.com/">Scrimba Bootcamp</a></p></li>
-    <p>Exclente página para formarte como Frontend Developer</p>
-      <li><p><a href="https://www.w3schools.com/jsref/jsref_filter.asp">JavaScript Array filter()
-</a></p></li>
-    
- 
+    <p>Excelente página para formarte como Frontend Developer</p>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+    <p>Toda la documentación de Bootstrap</p>
+  </ul>
+  
   <h1>Código</h1>
   <p>Con toda libertad puedes bajar o clonar este repositorio!</p>
   <p>Aunque no es un proyecto en si, cualquier comentario siempre es bien recibido!</p>
