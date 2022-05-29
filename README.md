@@ -8,7 +8,7 @@
   <ul>
       <li><p><a href="https://scrimba.com/">Scrimba Bootcamp</a></p></li>
     <p>Excelente página para formarte como Frontend Developer</p>
-    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+    <li><p><a href="https://getbootstrap.com/">Bootstrap</a></p></li>
     <p>Toda la documentación de Bootstrap</p>
   </ul>
   
