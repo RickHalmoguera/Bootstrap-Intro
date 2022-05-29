@@ -2,7 +2,7 @@
 <p> En este repo es sobre mi introducción a <a href="https://getbootstrap.com/">Bootstrap</a> Bootstrap, donde juego un poco con los distintos estilos que puedo aplicar al DOM. </p>
 
 <h1>Preview del proyecto<h1>
-<img align="center" src="./bootstrap.gif"/>
+<img align="center" src="./Bootstrap.gif"/>
   
   <h1>Recursos utilizados</h1>
   <ul>
